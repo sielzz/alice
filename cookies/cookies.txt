@@ -1,1 +1,10 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
 
+.youtube.com	TRUE	/	TRUE	1733408501	GPS	1
+.youtube.com	TRUE	/	TRUE	0	YSC	Xb2pihhgOEQ
+.youtube.com	TRUE	/	TRUE	1748958701	VISITOR_INFO1_LIVE	szIUI0wCq2A
+.youtube.com	TRUE	/	TRUE	1748958701	VISITOR_PRIVACY_METADATA	CgJJRBIEGgAgHQ%3D%3D
+.youtube.com	TRUE	/	TRUE	1767966702	PREF	tz=Asia.Jakarta
+.youtube.com	TRUE	/	FALSE	1733406722	ST-vlzpya	csn=NTc8fPCnCK23NRny&itct=CJ0BEKMwGAAiEwjeu9ua45CKAxX1Z50JHQwRLnUyBnNlYXJjaA%3D%3D
